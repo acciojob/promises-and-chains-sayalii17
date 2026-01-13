@@ -10,7 +10,7 @@ btn.addEventListener("click", (e) => {
 	let name= nameIp.value;
 	
 	if(!age || !name){
-		alert("Please enter valid details.");
+		alert("Please enter valid details");
 		return
 	}
 
